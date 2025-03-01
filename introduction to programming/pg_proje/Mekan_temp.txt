@@ -1,0 +1,3 @@
+Fitness,201,A
+Havuz,301,B
+Havuz,302,A

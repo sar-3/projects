@@ -1,0 +1,5 @@
+Misafir,Sare Keyhidar,109,0
+AileReisi,Emine Boluk,101,100
+Misafir,Zeynep Bicakci,102,0
+AileReisi,Berat Dere,103,3457
+Misafir,Ali Keyhidar,110,0
